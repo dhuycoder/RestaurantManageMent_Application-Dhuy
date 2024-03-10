@@ -4,14 +4,14 @@
     "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\GUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\BUSSS.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\BUS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\BUSSS.csproj",
-        "projectName": "BUSSS",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\BUSSS.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\BUS.csproj",
+        "projectName": "BUS",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\BUS.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\DAO.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\DAO.csproj"
+              "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\DTOO.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\DTOO.csproj"
               }
             }
           }
@@ -68,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\DAO.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\DAO.csproj",
-        "projectName": "DAO",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\DAO.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +95,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\source\\repos\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\DTO\\DTO.csproj"
+              "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\DTOO.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\DTOO.csproj"
               }
             }
           }
@@ -120,10 +123,6 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.Proxies": {
               "target": "Package",
               "version": "[8.0.2, )"
             },
@@ -168,14 +167,14 @@
         }
       }
     },
-    "C:\\Users\\ADMIN\\source\\repos\\DTO\\DTO.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\DTOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\DTO\\DTO.csproj",
-        "projectName": "DTO",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\DTOO.csproj",
+        "projectName": "DTOO",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\DTOO.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\DTO\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -252,11 +251,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\BUSSS.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\BUSSS.csproj"
+              "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\BUS.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\BUS.csproj"
               },
-              "C:\\Users\\ADMIN\\source\\repos\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\DTO\\DTO.csproj"
+              "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\DTOO.csproj": {
+                "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\DTOO.csproj"
               }
             }
           }

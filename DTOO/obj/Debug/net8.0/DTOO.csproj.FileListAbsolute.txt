@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\bin\Debug\net8.0\DTOO.deps.json
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\bin\Debug\net8.0\DTOO.dll
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\bin\Debug\net8.0\DTOO.pdb
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\obj\Debug\net8.0\DTOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\obj\Debug\net8.0\DTOO.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\obj\Debug\net8.0\DTOO.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\obj\Debug\net8.0\DTOO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\obj\Debug\net8.0\DTOO.sourcelink.json
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\obj\Debug\net8.0\DTOO.dll
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\obj\Debug\net8.0\refint\DTOO.dll
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\obj\Debug\net8.0\DTOO.pdb
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\DTOO\obj\Debug\net8.0\ref\DTOO.dll

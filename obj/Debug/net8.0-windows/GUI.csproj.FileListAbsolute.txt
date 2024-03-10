@@ -13,12 +13,6 @@ C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-w
 C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-windows\GUI.pdb
 C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
 C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-windows\ref\GUI.dll
-C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\BUSSS.dll
-C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\DAO.dll
-C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\DTO.dll
-C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\BUSSS.pdb
-C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\DTO.pdb
-C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\DAO.pdb
 C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-windows\GUI.csproj.AssemblyReference.cache
 C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-windows\GUI.csproj.Up2Date
 C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\Guna.UI2.dll
@@ -91,6 +85,11 @@ C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-w
 C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-windows\GUI.AddCategoryItem.resources
 C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-windows\GUI.FoodForm.resources
 C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-windows\Restaurant_ManageMent_Application.MainForm.resources
-C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\Castle.Core.dll
-C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-windows\GUI.CategoryCard.resources
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\obj\Debug\net8.0-windows\GUI.sourcelink.json
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\BUS.dll
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\DTOO.dll
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\BUS.pdb
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\DTOO.pdb
+C:\Users\ADMIN\source\repos\Restaurant_ManageMent_Application\bin\Debug\net8.0-windows\DAL.pdb

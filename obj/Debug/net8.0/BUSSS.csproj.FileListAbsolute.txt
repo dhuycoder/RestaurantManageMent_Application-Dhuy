@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\BUSSS\bin\Debug\net8.0\BUSSS.deps.json
+C:\Users\ADMIN\source\repos\BUSSS\bin\Debug\net8.0\BUSSS.dll
+C:\Users\ADMIN\source\repos\BUSSS\bin\Debug\net8.0\BUSSS.pdb
+C:\Users\ADMIN\source\repos\BUSSS\bin\Debug\net8.0\DTO.dll
+C:\Users\ADMIN\source\repos\BUSSS\bin\Debug\net8.0\DTO.pdb
+C:\Users\ADMIN\source\repos\BUSSS\obj\Debug\net8.0\BUSSS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BUSSS\obj\Debug\net8.0\BUSSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\BUSSS\obj\Debug\net8.0\BUSSS.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BUSSS\obj\Debug\net8.0\BUSSS.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BUSSS\obj\Debug\net8.0\BUSSS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BUSSS\obj\Debug\net8.0\BUSSS.csproj.Up2Date
+C:\Users\ADMIN\source\repos\BUSSS\obj\Debug\net8.0\BUSSS.dll
+C:\Users\ADMIN\source\repos\BUSSS\obj\Debug\net8.0\refint\BUSSS.dll
+C:\Users\ADMIN\source\repos\BUSSS\obj\Debug\net8.0\BUSSS.pdb
+C:\Users\ADMIN\source\repos\BUSSS\obj\Debug\net8.0\ref\BUSSS.dll
+C:\Users\ADMIN\source\repos\BUSSS\bin\Debug\net8.0\DAO.dll
+C:\Users\ADMIN\source\repos\BUSSS\bin\Debug\net8.0\DAO.pdb
