@@ -15,6 +15,7 @@ namespace GUI
         public foodCardRIght()
         {
             InitializeComponent();
+            DelBtn = DelFoodCardRightBtn;
         }
         private string foodSize;
         private string imageLocation;
@@ -22,9 +23,8 @@ namespace GUI
         private string foodPrice;
         private string foodName;
         private string foodNumberLbl;
+        public Button DelBtn { get; set; }
 
-      
-        
 
         [Category("Custom Props")]
         public string FoodName
@@ -85,5 +85,7 @@ namespace GUI
             this.FoodNumberLBL = Number.ToString();
             MenuFlowPanel.LoadTotalPrice();
         }
+
+       
     }
 }

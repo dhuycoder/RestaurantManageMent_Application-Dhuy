@@ -10,11 +10,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using DTOO;
 namespace GUI
 {
     public partial class FoodCard : UserControl
     {
+        public static Bill billAdd;
         public FoodCard()
         {
             InitializeComponent();
@@ -82,6 +83,8 @@ namespace GUI
             MenuFlowPanel.foodMenuLstRight.Add(foodCardRIght);
             MenuFlowPanel.flpnlR.Controls.Add(foodCardRIght);
             MenuFlowPanel.LoadTotalPrice();
+            
+
         }
     }
 }

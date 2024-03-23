@@ -22,9 +22,17 @@ namespace BUSSS
             }
             return _instance;
         }
-        public int GetDiscountByCode(string code)
+        public decimal GetDiscountByCode(string code)
         {
             return VoucherDAL.GetInstance().SelectDiscountPercentByCode(code);
+        }
+        public DateTime GetDue(string code)
+        {
+            return VoucherDAL.GetInstance().SelectDateTimeByCode(code);
+        }
+        public Voucher GetVoucherByCode(string code)
+        {
+            return VoucherDAL.GetInstance().SelectVoucherByCode(code);
         }
     }
 }

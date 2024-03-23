@@ -3,252 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\obj\\debug\\net8.0-windows\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\debug\\net8.0-windows\\.netcoreapp,version=v8.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|c:\\users\\admin\\source\\repos\\restaurant_management_application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|c:\\users\\admin\\source\\repos\\restaurant_management_application\\dtoo\\obj\\debug\\net8.0\\dtoo.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:dtoo\\obj\\debug\\net8.0\\dtoo.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFCD1C61-CB82-4C24-8D04-73BBE6041F17}|DAL\\DAL.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dal\\foodorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCD1C61-CB82-4C24-8D04-73BBE6041F17}|DAL\\DAL.csproj|solutionrelative:dal\\foodorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|c:\\users\\admin\\source\\repos\\restaurant_management_application\\dal\\restaurantmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:dal\\restaurantmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F29DD05-689D-40E6-8009-A2CA4818A9CD}|BUS\\BUS.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\bus\\categorybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F29DD05-689D-40E6-8009-A2CA4818A9CD}|BUS\\BUS.csproj|solutionrelative:bus\\categorybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D5764A-953E-42C6-9C51-54659E781DDB}|DTOO\\DTOO.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dtoo\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07D5764A-953E-42C6-9C51-54659E781DDB}|DTOO\\DTOO.csproj|solutionrelative:dtoo\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D5764A-953E-42C6-9C51-54659E781DDB}|DTOO\\DTOO.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dtoo\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07D5764A-953E-42C6-9C51-54659E781DDB}|DTOO\\DTOO.csproj|solutionrelative:dtoo\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D5764A-953E-42C6-9C51-54659E781DDB}|DTOO\\DTOO.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dtoo\\foodsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07D5764A-953E-42C6-9C51-54659E781DDB}|DTOO\\DTOO.csproj|solutionrelative:dtoo\\foodsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D5764A-953E-42C6-9C51-54659E781DDB}|DTOO\\DTOO.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dtoo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07D5764A-953E-42C6-9C51-54659E781DDB}|DTOO\\DTOO.csproj|solutionrelative:dtoo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07D5764A-953E-42C6-9C51-54659E781DDB}|DTOO\\DTOO.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dtoo\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07D5764A-953E-42C6-9C51-54659E781DDB}|DTOO\\DTOO.csproj|solutionrelative:dtoo\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3057C092-7BFA-411B-8BCC-08A18E133101}|..\\DTO\\DTO.csproj|c:\\users\\admin\\source\\repos\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3057C092-7BFA-411B-8BCC-08A18E133101}|..\\DTO\\DTO.csproj|c:\\users\\admin\\source\\repos\\dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3057C092-7BFA-411B-8BCC-08A18E133101}|..\\DTO\\DTO.csproj|c:\\users\\admin\\source\\repos\\dto\\foodsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3057C092-7BFA-411B-8BCC-08A18E133101}|..\\DTO\\DTO.csproj|c:\\users\\admin\\source\\repos\\dto\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C16B5EB-ADF2-45E3-BDE1-79F8B9EA5E58}|..\\DAO\\DAO\\DAO.csproj|c:\\users\\admin\\source\\repos\\dao\\dao\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C16B5EB-ADF2-45E3-BDE1-79F8B9EA5E58}|..\\DAO\\DAO\\DAO.csproj|c:\\users\\admin\\source\\repos\\dao\\dao\\daointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C16B5EB-ADF2-45E3-BDE1-79F8B9EA5E58}|..\\DAO\\DAO\\DAO.csproj|c:\\users\\admin\\source\\repos\\dao\\dao\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C16B5EB-ADF2-45E3-BDE1-79F8B9EA5E58}|..\\DAO\\DAO\\DAO.csproj|c:\\users\\admin\\source\\repos\\dao\\dao\\foodsizedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C16B5EB-ADF2-45E3-BDE1-79F8B9EA5E58}|..\\DAO\\DAO\\DAO.csproj|c:\\users\\admin\\source\\repos\\dao\\dao\\restaurantmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C16B5EB-ADF2-45E3-BDE1-79F8B9EA5E58}|..\\DAO\\DAO\\DAO.csproj|c:\\users\\admin\\source\\repos\\dao\\dao\\voucherdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55D90CAE-8324-45AC-9C89-B7D2E3B78D48}|..\\BUSSS\\BUSSS.csproj|c:\\users\\admin\\source\\repos\\busss\\voucherbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55D90CAE-8324-45AC-9C89-B7D2E3B78D48}|..\\BUSSS\\BUSSS.csproj|c:\\users\\admin\\source\\repos\\busss\\categorybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55D90CAE-8324-45AC-9C89-B7D2E3B78D48}|..\\BUSSS\\BUSSS.csproj|c:\\users\\admin\\source\\repos\\busss\\foodbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55D90CAE-8324-45AC-9C89-B7D2E3B78D48}|..\\BUSSS\\BUSSS.csproj|c:\\users\\admin\\source\\repos\\busss\\foodsizebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F29DD05-689D-40E6-8009-A2CA4818A9CD}|BUS\\BUS.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\bus\\foodbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F29DD05-689D-40E6-8009-A2CA4818A9CD}|BUS\\BUS.csproj|solutionrelative:bus\\foodbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F29DD05-689D-40E6-8009-A2CA4818A9CD}|BUS\\BUS.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F29DD05-689D-40E6-8009-A2CA4818A9CD}|BUS\\BUS.csproj|solutionrelative:bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTO\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55D90CAE-8324-45AC-9C89-B7D2E3B78D48}|..\\BUSSS\\BUSSS.csproj|c:\\users\\admin\\source\\repos\\busss\\busss.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\menuflowpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:menuflowpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\menuflowpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:menuflowpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFCD1C61-CB82-4C24-8D04-73BBE6041F17}|DAL\\DAL.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCD1C61-CB82-4C24-8D04-73BBE6041F17}|DAL\\DAL.csproj|solutionrelative:dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\menuflowpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:menuflowpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\menuflowpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:menuflowpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFCD1C61-CB82-4C24-8D04-73BBE6041F17}|DAL\\DAL.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dal\\foodsizedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCD1C61-CB82-4C24-8D04-73BBE6041F17}|DAL\\DAL.csproj|solutionrelative:dal\\foodsizedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodcardright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodcardright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFCD1C61-CB82-4C24-8D04-73BBE6041F17}|DAL\\DAL.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dal\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCD1C61-CB82-4C24-8D04-73BBE6041F17}|DAL\\DAL.csproj|solutionrelative:dal\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\menuflowpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:menuflowpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addfoodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:addfoodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\detailbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:detailbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addcategoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:addcategoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\ucbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:ucbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addfoodcard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:addfoodcard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\ucbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:ucbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addfoodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:addfoodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addcategoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:addcategoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\detailbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:detailbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodcardright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodcardright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addcategoryitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:addcategoryitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodcardright.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodcardright.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodcardright.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodcardright.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodcardright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodcardright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\detailbill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:detailbill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\categoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:categoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\resources\\delicon.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:resources\\delicon.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{9F29DD05-689D-40E6-8009-A2CA4818A9CD}|BUS\\BUS.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\bus\\billbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F29DD05-689D-40E6-8009-A2CA4818A9CD}|BUS\\BUS.csproj|solutionrelative:bus\\billbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\ucbill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:ucbill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodcard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodcard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:categorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dal\\foodsizedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:dal\\foodsizedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addfoodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:addfoodcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dal\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:dal\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dal\\daointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:dal\\daointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\dal\\voucherdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511A9BE7-FAD6-4728-9407-0C4EAD7FFF51}|GUI.csproj|solutionrelative:dal\\voucherdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\obj\\debug\\net8.0-windows\\gui.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\debug\\net8.0-windows\\gui.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F29DD05-689D-40E6-8009-A2CA4818A9CD}|BUS\\BUS.csproj|C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\bus\\food_orderbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F29DD05-689D-40E6-8009-A2CA4818A9CD}|BUS\\BUS.csproj|solutionrelative:bus\\food_orderbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -258,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -269,785 +133,335 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DTOO.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\obj\\Debug\\net8.0\\DTOO.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "DTOO\\obj\\Debug\\net8.0\\DTOO.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\obj\\Debug\\net8.0\\DTOO.AssemblyInfo.cs*",
-              "RelativeToolTip": "DTOO\\obj\\Debug\\net8.0\\DTOO.AssemblyInfo.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAADgvw4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T05:01:09.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "FoodDAL.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\FoodDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\FoodDAL.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\FoodDAL.cs",
-              "RelativeToolTip": "DAL\\FoodDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:35:09.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "DAOinterface.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\DAOinterface.cs",
-              "RelativeDocumentMoniker": "DAL\\DAOinterface.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\DAOinterface.cs",
-              "RelativeToolTip": "DAL\\DAOinterface.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:35:06.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\Class1.cs",
-              "RelativeToolTip": "DAL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:21:31.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "CategoryDAL.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\CategoryDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\CategoryDAL.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\CategoryDAL.cs",
-              "RelativeToolTip": "DAL\\CategoryDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:34:58.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\obj\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\obj\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs*",
-              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T03:28:10.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "FoodSizeDAL.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\FoodSizeDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\FoodSizeDAL.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\FoodSizeDAL.cs",
-              "RelativeToolTip": "DAL\\FoodSizeDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:35:12.072Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RestaurantManage.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\RestaurantManage.cs",
-              "RelativeDocumentMoniker": "DAL\\RestaurantManage.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\RestaurantManage.cs",
-              "RelativeToolTip": "DAL\\RestaurantManage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:35:25.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryBUS.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\CategoryBUS.cs",
-              "RelativeDocumentMoniker": "BUS\\CategoryBUS.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\CategoryBUS.cs",
-              "RelativeToolTip": "BUS\\CategoryBUS.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:30:00.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "VoucherDAL.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\VoucherDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\VoucherDAL.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\VoucherDAL.cs",
-              "RelativeToolTip": "DAL\\VoucherDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:35:31.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Voucher.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\Voucher.cs",
-              "RelativeDocumentMoniker": "DTOO\\Voucher.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\Voucher.cs",
-              "RelativeToolTip": "DTOO\\Voucher.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:34:17.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FoodSize.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\FoodSize.cs",
-              "RelativeDocumentMoniker": "DTOO\\FoodSize.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\FoodSize.cs",
-              "RelativeToolTip": "DTOO\\FoodSize.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:34:16.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\Category.cs",
-              "RelativeDocumentMoniker": "DTOO\\Category.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\Category.cs",
-              "RelativeToolTip": "DTOO\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:34:13.08Z"
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\Food.cs",
-              "RelativeDocumentMoniker": "DTOO\\Food.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\Food.cs",
-              "RelativeToolTip": "DTOO\\Food.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:34:11.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DAOinterface.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\DAOinterface.cs",
-              "RelativeDocumentMoniker": "..\\DAO\\DAO\\DAOinterface.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\DAOinterface.cs",
-              "RelativeToolTip": "..\\DAO\\DAO\\DAOinterface.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:29:09.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FoodDAL.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\FoodDAL.cs",
-              "RelativeDocumentMoniker": "..\\DAO\\DAO\\FoodDAL.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\FoodDAL.cs",
-              "RelativeToolTip": "..\\DAO\\DAO\\FoodDAL.cs",
-              "ViewState": "AQIAAHQAAAAAAAAAAADwv30AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T03:56:20.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\Class1.cs",
-              "RelativeDocumentMoniker": "DTOO\\Class1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTOO\\Class1.cs",
-              "RelativeToolTip": "DTOO\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:26:38.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryDAL.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\CategoryDAL.cs",
-              "RelativeDocumentMoniker": "..\\DAO\\DAO\\CategoryDAL.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\CategoryDAL.cs",
-              "RelativeToolTip": "..\\DAO\\DAO\\CategoryDAL.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAIwIAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:01:27.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DTO\\Category.cs",
-              "RelativeDocumentMoniker": "..\\DTO\\Category.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DTO\\Category.cs",
-              "RelativeToolTip": "..\\DTO\\Category.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAkwB0AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T13:53:20.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Food.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DTO\\Food.cs",
-              "RelativeDocumentMoniker": "..\\DTO\\Food.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DTO\\Food.cs",
-              "RelativeToolTip": "..\\DTO\\Food.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAowCoAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T13:43:20.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Voucher.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DTO\\Voucher.cs",
-              "RelativeDocumentMoniker": "..\\DTO\\Voucher.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DTO\\Voucher.cs",
-              "RelativeToolTip": "..\\DTO\\Voucher.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAowBYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T12:58:44.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FoodSize.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DTO\\FoodSize.cs",
-              "RelativeDocumentMoniker": "..\\DTO\\FoodSize.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DTO\\FoodSize.cs",
-              "RelativeToolTip": "..\\DTO\\FoodSize.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCMAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T13:55:58.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FoodSizeDAL.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\FoodSizeDAL.cs",
-              "RelativeDocumentMoniker": "..\\DAO\\DAO\\FoodSizeDAL.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\FoodSizeDAL.cs",
-              "RelativeToolTip": "..\\DAO\\DAO\\FoodSizeDAL.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAwwHEAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:29:29.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RestaurantManage.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\RestaurantManage.cs",
-              "RelativeDocumentMoniker": "..\\DAO\\DAO\\RestaurantManage.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\RestaurantManage.cs",
-              "RelativeToolTip": "..\\DAO\\DAO\\RestaurantManage.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBsAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:29:26.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "VoucherDAL.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\VoucherDAL.cs",
-              "RelativeDocumentMoniker": "..\\DAO\\DAO\\VoucherDAL.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DAO\\DAO\\VoucherDAL.cs",
-              "RelativeToolTip": "..\\DAO\\DAO\\VoucherDAL.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAADwvyMAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:01:29.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CategoryBUS.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\CategoryBUS.cs",
-              "RelativeDocumentMoniker": "..\\BUSSS\\CategoryBUS.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\CategoryBUS.cs",
-              "RelativeToolTip": "..\\BUSSS\\CategoryBUS.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAmwFIAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:00:19.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FoodBUS.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\FoodBUS.cs",
-              "RelativeDocumentMoniker": "..\\BUSSS\\FoodBUS.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\FoodBUS.cs",
-              "RelativeToolTip": "..\\BUSSS\\FoodBUS.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAqwEgAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:01:19.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FoodBUS.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\FoodBUS.cs",
-              "RelativeDocumentMoniker": "BUS\\FoodBUS.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\FoodBUS.cs",
-              "RelativeToolTip": "BUS\\FoodBUS.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:28:26.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "VoucherBUS.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\VoucherBUS.cs",
-              "RelativeDocumentMoniker": "..\\BUSSS\\VoucherBUS.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\VoucherBUS.cs",
-              "RelativeToolTip": "..\\BUSSS\\VoucherBUS.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAqwB4AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:01:21.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FoodSizeBUS.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\FoodSizeBUS.cs",
-              "RelativeDocumentMoniker": "..\\BUSSS\\FoodSizeBUS.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\FoodSizeBUS.cs",
-              "RelativeToolTip": "..\\BUSSS\\FoodSizeBUS.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAqwFkAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:01:20.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\Class1.cs",
-              "RelativeDocumentMoniker": "BUS\\Class1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\Class1.cs",
-              "RelativeToolTip": "BUS\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:21:08.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTO\\Class1.cs",
-              "RelativeDocumentMoniker": "DTO\\Class1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DTO\\Class1.cs",
-              "RelativeToolTip": "DTO\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T04:22:20.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BUSSS",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\BUSSS.csproj",
-              "RelativeDocumentMoniker": "..\\BUSSS\\BUSSS.csproj",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\BUSSS\\BUSSS.csproj",
-              "RelativeToolTip": "..\\BUSSS\\BUSSS.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-10T04:03:08.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "GUI.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\obj\\Debug\\net8.0-windows\\GUI.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\GUI.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\obj\\Debug\\net8.0-windows\\GUI.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\GUI.AssemblyInfo.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvw4AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T03:28:15.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "GUI.csproj",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\GUI.csproj",
-              "RelativeDocumentMoniker": "GUI.csproj",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\GUI.csproj",
-              "RelativeToolTip": "GUI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-26T15:18:11.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T12:33:51.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "FoodForm.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodForm.cs",
-              "RelativeDocumentMoniker": "FoodForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodForm.cs",
-              "RelativeToolTip": "FoodForm.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwAoAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T14:06:01.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CategoryForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryForm.cs",
-              "RelativeDocumentMoniker": "CategoryForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryForm.cs [Design]",
-              "RelativeToolTip": "CategoryForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:51:17.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "FoodForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodForm.cs",
-              "RelativeDocumentMoniker": "FoodForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodForm.cs [Design]",
-              "RelativeToolTip": "FoodForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T03:33:49.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "MenuFlowPanel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MenuFlowPanel.cs",
-              "RelativeDocumentMoniker": "MenuFlowPanel.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MenuFlowPanel.cs [Design]",
-              "RelativeToolTip": "MenuFlowPanel.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T15:32:11.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "MenuFlowPanel.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MenuFlowPanel.cs",
-              "RelativeDocumentMoniker": "MenuFlowPanel.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MenuFlowPanel.cs",
-              "RelativeToolTip": "MenuFlowPanel.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAkwMAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T09:58:03.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "MenuFlowPanel.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MenuFlowPanel.Designer.cs",
-              "RelativeDocumentMoniker": "MenuFlowPanel.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MenuFlowPanel.Designer.cs",
-              "RelativeToolTip": "MenuFlowPanel.Designer.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAADwv20AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T10:56:29.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MainForm.cs [Design]",
               "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T15:19:28.219Z"
+              "WhenOpened": "2024-03-23T02:08:42.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAADwvyUAAAALAAAA",
+              "DocumentIndex": 4,
+              "Title": "MenuFlowPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MenuFlowPanel.cs",
+              "RelativeDocumentMoniker": "MenuFlowPanel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MenuFlowPanel.cs [Design]",
+              "RelativeToolTip": "MenuFlowPanel.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T15:37:34.681Z"
+              "WhenOpened": "2024-03-23T06:14:28.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "foodCardRIght.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.cs",
-              "RelativeDocumentMoniker": "foodCardRIght.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.cs",
-              "RelativeToolTip": "foodCardRIght.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "FoodForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodForm.cs",
+              "RelativeDocumentMoniker": "FoodForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodForm.cs [Design]",
+              "RelativeToolTip": "FoodForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T10:12:27.427Z"
+              "WhenOpened": "2024-03-23T03:20:23.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "FoodCard.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodCard.cs",
-              "RelativeDocumentMoniker": "FoodCard.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodCard.cs",
-              "RelativeToolTip": "FoodCard.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAuwFQAAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "BillDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\BillDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\BillDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\BillDAL.cs",
+              "RelativeToolTip": "DAL\\BillDAL.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAA8wEYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T01:23:27.248Z"
+              "WhenOpened": "2024-03-22T14:25:59.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CategoryForm.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryForm.cs",
-              "RelativeDocumentMoniker": "CategoryForm.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryForm.cs",
-              "RelativeToolTip": "CategoryForm.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAA3wA8AAAAFAAAA",
+              "DocumentIndex": 1,
+              "Title": "FoodOrderDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\FoodOrderDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\FoodOrderDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\FoodOrderDAL.cs",
+              "RelativeToolTip": "DAL\\FoodOrderDAL.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:52:52.488Z"
+              "WhenOpened": "2024-03-22T14:25:32.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "addFoodCard.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addFoodCard.cs",
-              "RelativeDocumentMoniker": "addFoodCard.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addFoodCard.cs",
-              "RelativeToolTip": "addFoodCard.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAALgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T15:17:59.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "AddCategoryItem.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\AddCategoryItem.cs",
-              "RelativeDocumentMoniker": "AddCategoryItem.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\AddCategoryItem.cs",
-              "RelativeToolTip": "AddCategoryItem.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAwBEAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:29:55.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "addFoodCard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addFoodCard.Designer.cs",
-              "RelativeDocumentMoniker": "addFoodCard.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addFoodCard.Designer.cs",
-              "RelativeToolTip": "addFoodCard.Designer.cs",
-              "ViewState": "AQIAANQBAAAAAAAAAADwv98BAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T09:07:40.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "AddCategoryItem.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\AddCategoryItem.cs",
-              "RelativeDocumentMoniker": "AddCategoryItem.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\AddCategoryItem.cs [Design]",
-              "RelativeToolTip": "AddCategoryItem.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:16:39.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "addFoodCard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addFoodCard.cs",
-              "RelativeDocumentMoniker": "addFoodCard.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addFoodCard.cs [Design]",
-              "RelativeToolTip": "addFoodCard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T02:39:09.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "CategoryCard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryCard.cs",
-              "RelativeDocumentMoniker": "CategoryCard.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryCard.cs [Design]",
-              "RelativeToolTip": "CategoryCard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:06:52.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "CategoryCard.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryCard.cs",
-              "RelativeDocumentMoniker": "CategoryCard.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryCard.cs",
-              "RelativeToolTip": "CategoryCard.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBoAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:09:30.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "FoodCard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodCard.cs",
-              "RelativeDocumentMoniker": "FoodCard.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodCard.cs [Design]",
-              "RelativeToolTip": "FoodCard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T10:01:18.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "foodCardRIght.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.cs",
-              "RelativeDocumentMoniker": "foodCardRIght.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.cs [Design]",
-              "RelativeToolTip": "foodCardRIght.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T10:05:53.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "AddCategoryItem.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\AddCategoryItem.Designer.cs",
-              "RelativeDocumentMoniker": "AddCategoryItem.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\AddCategoryItem.Designer.cs",
-              "RelativeToolTip": "AddCategoryItem.Designer.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T00:31:58.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "foodCardRIght.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.Designer.cs",
-              "RelativeDocumentMoniker": "foodCardRIght.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.Designer.cs",
-              "RelativeToolTip": "foodCardRIght.Designer.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAEwIQAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T05:40:03.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "foodCardRIght.resx",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.resx",
-              "RelativeDocumentMoniker": "foodCardRIght.resx",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.resx",
-              "RelativeToolTip": "foodCardRIght.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-03-04T05:40:52.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "FoodForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodForm.Designer.cs",
-              "RelativeDocumentMoniker": "FoodForm.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodForm.Designer.cs",
-              "RelativeToolTip": "FoodForm.Designer.cs",
-              "ViewState": "AQIAAMIAAAAAAAAAAADgv80AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T14:25:11.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MainForm.Designer.cs",
-              "RelativeToolTip": "MainForm.Designer.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAADgv3sAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T09:46:29.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "CategoryForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryForm.Designer.cs",
-              "RelativeDocumentMoniker": "CategoryForm.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryForm.Designer.cs",
-              "RelativeToolTip": "CategoryForm.Designer.cs",
-              "ViewState": "AQIAAK4AAAAAAAAAAADgv7oAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T10:56:40.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Delicon.jpg",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\Resources\\Delicon.jpg",
-              "RelativeDocumentMoniker": "Resources\\Delicon.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\Resources\\Delicon.jpg",
-              "RelativeToolTip": "Resources\\Delicon.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-02-29T09:51:12.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "FoodCard.resx",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodCard.resx",
-              "RelativeDocumentMoniker": "FoodCard.resx",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodCard.resx",
-              "RelativeToolTip": "FoodCard.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-02-27T09:27:41.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AQIAADMNAAAAAAAAAAAAADkNAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-02-27T09:37:20.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T15:12:07.024Z"
+              "WhenOpened": "2024-03-22T13:55:40.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodSizeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\FoodSizeDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\FoodSizeDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\FoodSizeDAL.cs",
+              "RelativeToolTip": "DAL\\FoodSizeDAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:25:27.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UcBill.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\UcBill.cs",
+              "RelativeDocumentMoniker": "UcBill.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\UcBill.cs",
+              "RelativeToolTip": "UcBill.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwEQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:07:36.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuFlowPanel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MenuFlowPanel.cs",
+              "RelativeDocumentMoniker": "MenuFlowPanel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\MenuFlowPanel.cs",
+              "RelativeToolTip": "MenuFlowPanel.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAnwMkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:31:10.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetailBill.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DetailBill.cs",
+              "RelativeDocumentMoniker": "DetailBill.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DetailBill.cs",
+              "RelativeToolTip": "DetailBill.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:12:32.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UcBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\UcBill.cs",
+              "RelativeDocumentMoniker": "UcBill.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\UcBill.cs [Design]",
+              "RelativeToolTip": "UcBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T13:57:54.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "foodCardRIght.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.cs",
+              "RelativeDocumentMoniker": "foodCardRIght.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.cs [Design]",
+              "RelativeToolTip": "foodCardRIght.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:55:49.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:14:36.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\FoodDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\FoodDAL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DAL\\FoodDAL.cs",
+              "RelativeToolTip": "DAL\\FoodDAL.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAQwKEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:20:50.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FoodCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodCard.cs",
+              "RelativeDocumentMoniker": "FoodCard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodCard.cs [Design]",
+              "RelativeToolTip": "FoodCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:18:43.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAIwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T06:22:38.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DetailBill.cs",
+              "RelativeDocumentMoniker": "DetailBill.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DetailBill.cs [Design]",
+              "RelativeToolTip": "DetailBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:09:22.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "foodCardRIght.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.Designer.cs",
+              "RelativeDocumentMoniker": "foodCardRIght.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.Designer.cs",
+              "RelativeToolTip": "foodCardRIght.Designer.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAIwL4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:55:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "foodCardRIght.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.cs",
+              "RelativeDocumentMoniker": "foodCardRIght.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\foodCardRIght.cs",
+              "RelativeToolTip": "foodCardRIght.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwFgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:54:25.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetailBill.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DetailBill.Designer.cs",
+              "RelativeDocumentMoniker": "DetailBill.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\DetailBill.Designer.cs",
+              "RelativeToolTip": "DetailBill.Designer.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAIwH4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:44:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BillBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\BillBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\BillBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\BillBUS.cs",
+              "RelativeToolTip": "BUS\\BillBUS.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAhwD4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:27:22.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryCard.cs",
+              "RelativeDocumentMoniker": "CategoryCard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryCard.cs [Design]",
+              "RelativeToolTip": "CategoryCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:18:40.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FoodCard.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodCard.cs",
+              "RelativeDocumentMoniker": "FoodCard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodCard.cs",
+              "RelativeToolTip": "FoodCard.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwFQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T09:18:45.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Food_OrderBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\Food_OrderBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\Food_OrderBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\BUS\\Food_OrderBUS.cs",
+              "RelativeToolTip": "BUS\\Food_OrderBUS.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:26:44.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FoodForm.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodForm.cs",
+              "RelativeDocumentMoniker": "FoodForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\FoodForm.cs",
+              "RelativeToolTip": "FoodForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIAwwB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:52:01.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UcBill.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\UcBill.Designer.cs",
+              "RelativeDocumentMoniker": "UcBill.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\UcBill.Designer.cs",
+              "RelativeToolTip": "UcBill.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:08:22.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryCard.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryCard.cs",
+              "RelativeDocumentMoniker": "CategoryCard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\CategoryCard.cs",
+              "RelativeToolTip": "CategoryCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:30:58.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "addFoodCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addFoodCard.cs",
+              "RelativeDocumentMoniker": "addFoodCard.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\Restaurant_ManageMent_Application\\addFoodCard.cs [Design]",
+              "RelativeToolTip": "addFoodCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T06:14:13.666Z"
             }
           ]
         },

@@ -4,13 +4,13 @@ namespace Restaurant_ManageMent_Application
 {
     public partial class MainForm : Form
     {
-        
+
         public MainForm()
         {
 
             InitializeComponent();
-            
-            
+
+
         }
         private Form activeForm = null;
         private void openChildForm(Form childForm)
@@ -38,7 +38,7 @@ namespace Restaurant_ManageMent_Application
             childForm.Dock = DockStyle.Fill;
             PanelMain.Controls.Add(childForm);
             childForm.Show();
-           
+
         }
 
 
@@ -51,7 +51,7 @@ namespace Restaurant_ManageMent_Application
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
-            
+
             FoodForm foodfForm = new FoodForm();
             openChildForm(foodfForm);
         }
@@ -62,11 +62,17 @@ namespace Restaurant_ManageMent_Application
 
         }
 
-        
+
         private void guna2Button3_Click(object sender, EventArgs e)
         {
-           
+
             MenuFlowPanel menuFlowPanel = new MenuFlowPanel();
+            openChildForm(menuFlowPanel);
+        }
+
+        private void guna2Button4_Click(object sender, EventArgs e)
+        {
+            Form1 menuFlowPanel = new Form1();
             openChildForm(menuFlowPanel);
         }
     }

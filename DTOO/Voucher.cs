@@ -16,7 +16,13 @@ namespace DTOO
         public int VoucherId { get; set; }
         [Column("Code")]
         public string Code { get; set;}
-        [Column("Discount_percent")]
-        public int Discount { get; set; }
+        [Column("Discount")]
+        public decimal Discount { get; set; }
+        [Column("Due_Date")]
+        public DateTime Due { get; set; }
+        [Column("Start_Date")]
+        public DateTime Start_Date { get; set; }
+        [Column("Min_Price")]
+        public decimal Min_Price {  get; set; }
     }
 }

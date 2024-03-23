@@ -11,7 +11,7 @@ namespace DAL
 {
     public sealed class FoodDAL
     {
-        public static RestaurantManage restaurantManage = new RestaurantManage();
+     
         private FoodDAL() { }
 
 
@@ -27,110 +27,149 @@ namespace DAL
         }
         public void Add(Food food)
         {
-            restaurantManage.foods.Add(food);
-            restaurantManage.SaveChanges();
+            using(RestaurantManage restaurantManage = new RestaurantManage())
+            {
+                restaurantManage.foods.Add(food);
+                restaurantManage.SaveChanges();
+            }
+          
         }
         public List<Food> GetList()
         {
-            var foodList = from food in restaurantManage.foods
-                           select food;
-            return foodList.ToList();
+            using (RestaurantManage restaurantManage = new RestaurantManage())
+            {
+                var foodList = from food in restaurantManage.foods
+                               select food;
+                return foodList.ToList();
+            }
+                
         }
         public dynamic getFoodListWithCategory()
         {
-            var foodlist = from f in restaurantManage.foods
-                           select new
-                           {
-                               FoodId = f.IdFood,
-                               FoodName = f.NameFood,
-                               CategoryName = f.Category.CategoryName
-                           };
-            return foodlist.ToList();
+            using (RestaurantManage restaurantManage = new RestaurantManage())
+            {
+                var foodlist = from f in restaurantManage.foods
+                               select new
+                               {
+                                   FoodId = f.IdFood,
+                                   FoodName = f.NameFood,
+                                   CategoryName = f.Category.CategoryName
+                               };
+                return foodlist.ToList();
+            }
+                
         }
         public int SelectIdByFoodName(string foodName)
         {
-            var IdFood = (from f in restaurantManage.foods
-                          where f.NameFood == foodName
-                          select f.IdFood).FirstOrDefault();
-            return IdFood;
+            using (RestaurantManage restaurantManage = new RestaurantManage())
+            {
+                var IdFood = (from f in restaurantManage.foods
+                              where f.NameFood == foodName
+                              select f.IdFood).FirstOrDefault();
+                return IdFood;
+            }
+                
         }
         public bool Update(int id, string foodName, int idCategory, string imageLocation)
         {
-            var food = (from f in restaurantManage.foods
-                        where f.IdFood == id
-                        select f).FirstOrDefault();
-            if (food!= null)
+            using (RestaurantManage restaurantManage = new RestaurantManage())
             {
-                food.NameFood = foodName;
-                food.Id_Category = idCategory;
-                food.ImageLocation = imageLocation;
-                restaurantManage.SaveChanges();
-                return true;
+                var food = (from f in restaurantManage.foods
+                            where f.IdFood == id
+                            select f).FirstOrDefault();
+                if (food!= null)
+                {
+                    food.NameFood = foodName;
+                    food.Id_Category = idCategory;
+                    food.ImageLocation = imageLocation;
+                    restaurantManage.SaveChanges();
+                    return true;
+                }
+                else return false;
             }
-            else return false;
 
         }
         public string SelectImageById(int id)
         {
-            var imageLocation = (from f in restaurantManage.foods
-                                 where f.IdFood == id
-                                 select f.ImageLocation).FirstOrDefault();
-            return imageLocation.ToString();
+            using (RestaurantManage restaurantManage = new RestaurantManage())
+            {
+                var imageLocation = (from f in restaurantManage.foods
+                                     where f.IdFood == id
+                                     select f.ImageLocation).FirstOrDefault();
+                return imageLocation.ToString();
+            }
+                
         }
         public bool Delete(int id)
         {
-            var food = (from f in restaurantManage.foods
-                        where f.IdFood == id
-                        select f).FirstOrDefault();
-            if (food!= null)
+            using (RestaurantManage restaurantManage = new RestaurantManage())
             {
-                restaurantManage.Remove(food);
-                restaurantManage.SaveChanges();
-                return true;
+                var food = (from f in restaurantManage.foods
+                            where f.IdFood == id
+                            select f).FirstOrDefault();
+                if (food!= null)
+                {
+                    restaurantManage.Remove(food);
+                    restaurantManage.SaveChanges();
+                    return true;
+                }
+                else { return false; }
             }
-            else { return false; }
+                
 
         }
         public List<string> getFoodName()
         {
-            var foodNameLst = from f in restaurantManage.foods
-                              select f.NameFood;
-            return foodNameLst.ToList();
+            using (RestaurantManage restaurantManage = new RestaurantManage())
+            {
+                var foodNameLst = from f in restaurantManage.foods
+                                  select f.NameFood;
+                return foodNameLst.ToList();
+            }
+               
         }
         public dynamic GetLstByCondition(String condition)
         {
-            if (int.TryParse(condition, out _))
+            using (RestaurantManage restaurantManage = new RestaurantManage())
             {
-                var item = from f in restaurantManage.foods
-                           where f.IdFood == int.Parse(condition)
-                           select new
-                           {
-                               FoodId = f.IdFood,
-                               FoodName = f.NameFood,
-                               CategoryName = f.Category.CategoryName
-                           };
-                return item.ToList();
+                if (int.TryParse(condition, out _))
+                {
+                    var item = from f in restaurantManage.foods
+                               where f.IdFood == int.Parse(condition)
+                               select new
+                               {
+                                   FoodId = f.IdFood,
+                                   FoodName = f.NameFood,
+                                   CategoryName = f.Category.CategoryName
+                               };
+                    return item.ToList();
+                }
+                else
+                {
+                    var item = from f in restaurantManage.foods
+                               where f.NameFood.Contains(condition)
+                               select new
+                               {
+                                   FoodId = f.IdFood,
+                                   FoodName = f.NameFood,
+                                   CategoryName = f.Category.CategoryName
+                               };
+                    return item.ToList();
+                }
             }
-            else
-            {
-                var item = from f in restaurantManage.foods
-                           where f.NameFood.Contains(condition)
-                           select new
-                           {
-                               FoodId = f.IdFood,
-                               FoodName = f.NameFood,
-                               CategoryName = f.Category.CategoryName
-                           };
-                return item.ToList();
-            }
+              
 
         }
         public List<Food> SelectFoodByNameFood(string foodName)
         {
-            var foodlst = from f in restaurantManage.foods
-                          where f.NameFood.Contains(foodName.Trim())
-                          select f;
-            return foodlst.ToList();
+            using (RestaurantManage restaurantManage = new RestaurantManage())
+            {
+                var foodlst = from f in restaurantManage.foods
+                              where f.NameFood.Contains(foodName.Trim())
+                              select f;
+                return foodlst.ToList();
+            }
+                
         }
     }
 }

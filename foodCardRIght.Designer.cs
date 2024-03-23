@@ -84,7 +84,7 @@
             // 
             foodPriceLbl.AutoSize = true;
             foodPriceLbl.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            foodPriceLbl.Location = new Point(310, 28);
+            foodPriceLbl.Location = new Point(315, 28);
             foodPriceLbl.Name = "foodPriceLbl";
             foodPriceLbl.Size = new Size(76, 31);
             foodPriceLbl.TabIndex = 4;
@@ -100,7 +100,7 @@
             DelFoodCardRightBtn.IconColor = Color.White;
             DelFoodCardRightBtn.IconFont = FontAwesome.Sharp.IconFont.Auto;
             DelFoodCardRightBtn.IconSize = 35;
-            DelFoodCardRightBtn.Location = new Point(448, 0);
+            DelFoodCardRightBtn.Location = new Point(469, 0);
             DelFoodCardRightBtn.Name = "DelFoodCardRightBtn";
             DelFoodCardRightBtn.Size = new Size(50, 144);
             DelFoodCardRightBtn.TabIndex = 6;
@@ -116,10 +116,10 @@
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33.3333321F));
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33.3333321F));
             tableLayoutPanel1.Controls.Add(MinusBtn, 0, 0);
-            tableLayoutPanel1.Controls.Add(PlusBtn, 2, 0);
             tableLayoutPanel1.Controls.Add(FoodNumberLbl, 1, 0);
+            tableLayoutPanel1.Controls.Add(PlusBtn, 2, 0);
             tableLayoutPanel1.ForeColor = Color.WhiteSmoke;
-            tableLayoutPanel1.Location = new Point(297, 66);
+            tableLayoutPanel1.Location = new Point(302, 66);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
             tableLayoutPanel1.RowCount = 1;
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 100F));
@@ -188,7 +188,7 @@
             Controls.Add(foodImage);
             Margin = new Padding(0);
             Name = "foodCardRIght";
-            Size = new Size(498, 144);
+            Size = new Size(519, 144);
             ((System.ComponentModel.ISupportInitialize)foodImage).EndInit();
             tableLayoutPanel1.ResumeLayout(false);
             tableLayoutPanel1.PerformLayout();

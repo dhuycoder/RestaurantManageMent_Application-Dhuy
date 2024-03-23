@@ -104,6 +104,7 @@
             guna2Button4.Size = new Size(278, 96);
             guna2Button4.TabIndex = 4;
             guna2Button4.Text = "guna2Button4";
+            guna2Button4.Click += guna2Button4_Click;
             // 
             // guna2Button3
             // 

@@ -1,4 +1,6 @@
-﻿using BUSSS;
+﻿using BUS;
+using BUSSS;
+using DAL;
 using DTOO;
 using Microsoft.Identity.Client;
 using System;
@@ -169,28 +171,56 @@ namespace GUI
             {
                 MessageBox.Show("Bạn chưa chọn món ăn ");
             }
+            if (DateTime.Now > VoucherBUS.GetInstance().GetDue(CodeTxt.Text) || DateTime.Now < VoucherBUS.GetInstance().GetVoucherByCode(CodeTxt.Text).Start_Date)
+            {
+                MessageBox.Show("code khong hop le");
+            }
+            else 
+            if (decimal.Parse(subTotalLbl.Text.Replace("$","")) > VoucherBUS.GetInstance().GetVoucherByCode(CodeTxt.Text).Min_Price)
+            {
+                    decimal discount = (decimal)VoucherBUS.GetInstance().GetDiscountByCode(CodeTxt.Text);
+                    decimal subTotal = decimal.Parse(subTotalLbl.Text.Replace("$", ""));
+                    DiscountPriceLbl.Text = "$"+discount.ToString();
+                    decimal totalPrice = subTotal - discount;
+                    totalLbl.Text ="$"+totalPrice.ToString();
+                
+            }
             else
             {
-                decimal discountPercent = (decimal)VoucherBUS.GetInstance().GetDiscountByCode(CodeTxt.Text);
-                decimal subTotal = decimal.Parse(subTotalLbl.Text.Replace("$", ""));
-                decimal discountPrice = discountPercent/100 * subTotal;
-                DiscountPriceLbl.Text = "$"+discountPrice.ToString();
-                decimal totalPrice = subTotal - discountPrice;
-                totalLbl.Text ="$"+totalPrice.ToString();
+                MessageBox.Show("chua du don toi thieu");
             }
-
-
-
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
-
         private void CheckOutBtn_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Thanh toán thành công");
+            int billId = BillBUS.Instance().GetBillIdMax() +1;
+            MessageBox.Show(billId.ToString());
+            Bill bill = new Bill()
+            {
+                Id_Bill = billId,
+                Date_invoice = DateTime.Now,
+                Sub_Price = decimal.Parse(subPriceLBL.Text.Replace("$", "")),
+                Id_Voucher = VoucherBUS.GetInstance().GetVoucherByCode(CodeTxt.Text) != null ? VoucherBUS.GetInstance().GetVoucherByCode(CodeTxt.Text).VoucherId : null,
+                Total_Price = decimal.Parse(totalLbl.Text.Replace("$", ""))
+            };
+            BillBUS.Instance().AddBill(bill);
+            foreach (var foodOrder in foodMenuLstRight)
+            {
+                Food_Order food_Orders = new Food_Order()
+                {
+                    Id_Food =  FoodBUS.GetInstance().GetIdByNameFood(foodOrder.FoodName),
+                    Size_Food = foodOrder.FoodSize,
+                    Price = decimal.Parse(foodOrder.FoodPrice.Replace("$", "")),
+                    Count_Food = int.Parse(foodOrder.FoodNumberLBL),
+                    Id_Bill = bill.Id_Bill,
+                };
+                Food_OrderBUS.Instance().AddFoodOrder(food_Orders);
+            }
+            MessageBox.Show("xuất hóa đơn thành công");
             subTotalLbl.Text = "$0";
             DiscountPriceLbl.Text = "";
             totalLbl.Text ="";

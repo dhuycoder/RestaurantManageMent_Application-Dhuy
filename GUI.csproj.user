@@ -13,6 +13,9 @@
     <Compile Update="CategoryForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="DetailBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FoodCard.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -22,11 +25,17 @@
     <Compile Update="FoodForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="MenuFlowPanel.cs">
       <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UcBill.cs">
+      <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
 </Project>
